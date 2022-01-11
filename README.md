@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Patricia and I'm an iOS developer.
+My name is Patricia and I'm an iOS developer.<br>
 Passionate about technology, I aim to facilitate and bring great experiences to people through code.
 
 You can find me here:
